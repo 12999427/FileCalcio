@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileCalcio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed6b24215d8bd753a7889185596d69e8e218dc2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileCalcio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileCalcio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
